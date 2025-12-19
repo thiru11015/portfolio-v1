@@ -31,6 +31,10 @@ The main goal of this portfolio is to build a strong foundation in **HTML struct
 **Thiru**  
 Aspiring MERN Full Stack Developer  
 
+## 🌐 Live Demo
+You can view the live version of my portfolio here:  
+🔗 https://thiru11015.github.io/portfolio-v1/
+
 ---
 
 ⭐ This is Portfolio v1 (HTML only). More updates coming soon.
